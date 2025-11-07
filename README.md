@@ -28,13 +28,29 @@ I help build **enterprise systems for Telcel / América Móvil** using **Java Sp
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  
 
-**Languages:** Python | Java | JavaScript | SQL  
-**Frameworks:** Spring Boot | Angular | Node.js | scikit-learn  
-**Databases:** MySQL | Oracle | PostgreSQL  
-**Cloud & Tools:** Azure | Git | Power BI | Docker  
+**Languages & Frameworks**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
+**Databases & Cloud**  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+**Tools & Visualization**  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
 ---
 
 ## 📊 Highlighted Projects
@@ -49,9 +65,10 @@ Machine learning classification model to predict customer attrition and improve 
 **Tools:** Logistic Regression, Random Forest, F1 / AUC-ROC evaluation  
 [🔗 View Repository](#)
 
-### 🚌 GarzaBus App
-Real-time university bus tracking app integrating **GPS data modeling in Python** and **Ionic + Angular frontend**.  
-**Tools:** Python, Angular, Node.js, MySQL  
+### ⏱️ Time Series Forecasting  
+Developed predictive models to forecast production and demand using **ARIMA**, **SARIMA**, and **Prophet** techniques.  
+Enhanced data-driven decision-making by automating performance analysis and visualization.  
+**Tools:** Python, Statsmodels, Prophet, Matplotlib  
 [🔗 View Repository](#)
 
 ---
@@ -65,10 +82,11 @@ Real-time university bus tracking app integrating **GPS data modeling in Python*
 
 ## 📬 Let’s Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/diegofranda)  
-[![Email](https://img.shields.io/badge/Email-diego.dominguez%40gmail.com-red)](mailto:diego.dominguez@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)]([[https://linkedin.com/in/diegofranda](https://www.linkedin.com/in/diego-francisco-dominguez-aguilar/)])  
+[![Email](https://img.shields.io/badge/Email-diego.dominguez%40gmail.com-red)](mailto:kiriyamaarei@gmail.com)
 
 ---
 
-⭐ *“Code, learn, and build things that make life better.”*
+⭐ *“Code, learn, and build things that make life better for you and for others.”*
 
+💬 *“If you can imagine it, you can program it!!”* — **Alejandro Taboada (Programación ATS)**
