@@ -1,21 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="Banner - Diego Francisco | Software Engineer | Data Science Enthusiast | Cloud & AI Learner" width="100%">
-</p>
-<!--
-**1DiegoFrancisco1/1DiegoFrancisco1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--  Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Diego Francisco Domínguez Aguilar 😄
 ### Software Engineer | Data Science Enthusiast | Cloud & AI Learner  
 
@@ -84,7 +66,7 @@ Enhanced data-driven decision-making by automating performance analysis and visu
 
 ## 📬 Let’s Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)]([[https://linkedin.com/in/diegofranda](https://www.linkedin.com/in/diego-francisco-dominguez-aguilar/)])  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/diego-francisco-dominguez-aguilar/)  
 [![Email](https://img.shields.io/badge/Email-diego.dominguez%40gmail.com-red)](mailto:kiriyamaarei@gmail.com)
 
 ---
