@@ -71,6 +71,8 @@ Enhanced data-driven decision-making by automating performance analysis and visu
 
 ---
 
+Thank you for reading.
+
 ⭐ *“Code, learn, and build things that make life better for you and for others.”*
 
 💬 *“If you can imagine it, you can program it!!”* — **Alejandro Taboada (Programación ATS)**
