@@ -59,8 +59,8 @@ Enhanced data-driven decision-making by automating performance analysis and visu
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1DiegoFranscisco1&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1DiegoFranscisco1&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1DiegoFrancisco1&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1DiegoFrancisco1&layout=compact&theme=tokyonight)
 
 ---
 
