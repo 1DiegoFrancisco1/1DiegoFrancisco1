@@ -67,7 +67,7 @@ Enhanced data-driven decision-making by automating performance analysis and visu
 ## 📬 Let’s Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/diego-francisco-dominguez-aguilar/)  
-[![Email](https://img.shields.io/badge/Email-diego.dominguez%40gmail.com-red)](mailto:kiriyamaarei@gmail.com)
+[![Email](https://img.shields.io/badge/Email-diego.dominguez%40inetum.com-red)](mailto:diego.dominguez@inetum.com)
 
 ---
 
